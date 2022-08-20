@@ -19,12 +19,11 @@ public class Uri1005 {
 
 	public static void main(String[] args) throws IOException{
 		Scanner scan = new Scanner(System.in);
-		double A = scan.nextInt();
-		double B = scan.nextInt();
+		double A = scan.nextDouble();
+		double B = scan.nextDouble();
 		double MEDIA = ((A*3.5)+(B*7.5))/11;
 		System.out.println(String.format("MEDIA = %.5f", MEDIA));
 		
 	}
 
 }
-/* não pronto ainda*/
