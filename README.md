@@ -5,3 +5,4 @@ das habilidades de programação resolvendo os problemas propostos no site beecr
 
 Começarei as soluções na linguagem Java e no decorrer do processo irei adicionar soluções em C++.
 
+O plataforma de onde retiro os problemas pode ser acessada pelo link: https://www.beecrowd.com.br
